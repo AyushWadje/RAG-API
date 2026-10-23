@@ -2,10 +2,10 @@
 
 # Build a RAG API with FastAPI
 
-**Project Link:** [View Project](https://nextwork.ai/projects/99ec4595-3d7b-5584-a799-aafb9c373bbb)
 
-**Author:** 24030042@ycce.in  
-**Email:** 24030042@ycce.in
+
+**Author:** Ayush Wadje  
+
 
 ---
 
